@@ -1,0 +1,55 @@
+
+Nom de l'hìte:                              DESKTOP-HOK7R31
+Nom du systäme d'exploitation:              Microsoft Windows 11 Professionnel
+Version du systäme:                         10.0.22631 N/A build 22631
+Fabricant du systäme d'exploitation:        Microsoft Corporation
+Configuration du systäme d'exploitation:    Station de travail autonome
+Type de build du systäme d'exploitation:    Multiprocessor Free
+PropriÇtaire enregistrÇ:                    P.Kodja
+Organisation enregistrÇe:                   
+Identificateur de produit:                  00331-20350-00000-AA328
+Date d'installation originale:              01/10/2022, 14:05:29
+Heure de dÇmarrage du systäme:              18/02/2024, 08:19:17
+Fabricant du systäme:                       HP
+Modäle du systäme:                          HP ZBook 14u G5
+Type du systäme:                            x64-based PC
+Processeur(s):                              1 processeur(s) installÇ(s).
+                                            [01]ˇ: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1792 MHz
+Version du BIOS:                            HP Q78 Ver. 01.26.00, 02/10/2023
+RÇpertoire Windows:                         C:\WINDOWS
+RÇpertoire systäme:                         C:\WINDOWS\system32
+PÇriphÇrique d'amoráage:                    \Device\HarddiskVolume2
+Option rÇgionale du systäme:                en-us;Anglais (êtats-Unis)
+Paramätres rÇgionaux d'entrÇe:              fr;Franáais (France)
+Fuseau horaire:                             (UTC+00:00) Monrovia, Reykjavik
+MÇmoire physique totale:                    16ˇ227 Mo
+MÇmoire physique disponible:                2ˇ395 Mo
+MÇmoire virtuelleˇ: taille maximale:        30ˇ862 Mo
+MÇmoire virtuelleˇ: disponible:             3ˇ508 Mo
+MÇmoire virtuelleˇ: en cours d'utilisation: 27ˇ354 Mo
+Emplacements des fichiers d'Çchange:        C:\pagefile.sys
+Domaine:                                    WORKGROUP
+Serveur d'ouverture de session:             \\DESKTOP-HOK7R31
+Correctif(s):                               5 Corrections installÇes.
+                                            [01]: KB5034467
+                                            [02]: KB5012170
+                                            [03]: KB5027397
+                                            [04]: KB5034765
+                                            [05]: KB5034225
+Carte(s) rÇseau:                            3 carte(s) rÇseau installÇe(s).
+                                            [01]: Intel(R) Dual Band Wireless-AC 8265
+                                                  Nom de la connexionˇ: Wi-Fi
+                                                  êtatˇ:                Support dÇconnectÇ
+                                            [02]: Intel(R) Ethernet Connection (4) I219-V
+                                                  Nom de la connexionˇ: Ethernet
+                                                  DHCP activÇˇ:         Oui
+                                                  Serveur DHCPˇ:        192.168.1.254
+                                                  Adresse(s) IP
+                                                  [01]: 192.168.1.64
+                                                  [02]: fe80::605d:5953:fcb9:697a
+                                                  [03]: 2c0f:f0f8:276:9b00:5477:733:4b28:631b
+                                                  [04]: 2c0f:f0f8:276:9b00:135f:efcf:643b:a4ed
+                                            [03]: Bluetooth Device (Personal Area Network)
+                                                  Nom de la connexionˇ: Bluetooth Network Connection
+                                                  êtatˇ:                Support dÇconnectÇ
+Configuration requise pour Hyper-V:         Un hyperviseur a ÇtÇ dÇtectÇ. Les fonctionnalitÇs nÇcessaires Ö Hyper-V ne seront pas affichÇes.
